@@ -1,5 +1,5 @@
 class ArrayIndexOutOfBound_2
-{ 
+{ //ArrayIndexOutofBound_2 
 	public static void main(String args[]) 
 	{ 
 		try{ 
